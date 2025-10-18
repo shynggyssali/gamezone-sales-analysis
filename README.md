@@ -30,6 +30,7 @@ The dataset consists of two tables, `orders` & `region`, with the following colu
 
 The analysis reveals a total sales revenue of approximately $6.15 million with an average order value of $282.17 from January 2019 to February 2021. Revenue shows steady growth from early 2019, followed by a sharp increase starting in early 2020, peaking close to $550K per month in late 2020. Product-level analysis indicates dynamic competition among top performers, with the 27in 4K gaming monitor, Nintendo Switch, and Sony PlayStation 5 Bundle consistently generating the highest monthly revenues. No single product dominated consistently, but revenue spikes align with certain product surges, particularly in late 2020.
 
+<img width="1414" height="797" alt="image" src="https://github.com/user-attachments/assets/47d3dfa4-9772-46ea-af02-c50ffcb0a6ad" />
 
 ## Insights Deep Dive
 

@@ -7,23 +7,6 @@ This project analyzes transactional data from an [Gamezone Orders Dataset](https
 The power of Excel was used to inspect, clean, and analyze the data for this project, and the issues/insights log can be found in the `gamezone-orders-data.xlsx` file.
 An interactive Power BI dashboard can be found in the `gamezone-dashboard.pbix` file.
 
-## Data Structure
-
-The dataset consists of two tables, `orders` & `region`, with the following columns:
-
-- **USER_ID:** Unique identifier for each customer.
-- **ORDER_ID:** Unique identifier for each transaction.
-- **PURCHASE_TS:** Timestamp of when the purchase was made.
-- **SHIP_TS:** Timestamp of when the order was shipped.
-- **PRODUCT_NAME:** Name or description of the purchased product.
-- **PRODUCT_ID:** Unique identifier for each product.
-- **USD_PRICE:** Price of the product in USD.
-- **PURCHASE_PLATFORM:** Channel through which the purchase was made (web / mobile app).
-- **MARKETING_CHANNEL:** Source of customer acquisition or traffic (e.g., email, social media, direct).
-- **ACCOUNT_CREATION_METHOD:** Method used by the customer to create their account (e.g., mobile, tablet, desktop).
-- **COUNTRY_CODE:** Country associated with the customer or transaction.
-- **REGION:** Geographical region corresponding to each country code (e.g., NA, EMEA).
-
 ## Executive Summary
 
 ### Overview of Findings
